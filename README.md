@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayu04ayush/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ayu04ayush/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ayu04ayush/leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/ayu04ayush/leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayu04ayush/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/ayu04ayush/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayu04ayush/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/ayu04ayush/leetcode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/ayu04ayush/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayu04ayush/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
