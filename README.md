@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ayu04ayush/leetcode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/ayu04ayush/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ayu04ayush/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -71,5 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ayu04ayush/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ayu04ayush/leetcode/tree/master/0268-missing-number) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ayu04ayush/leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ayu04ayush/leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
