@@ -10,7 +10,7 @@ public:
   digits[i] = 0;
  }
  vector<int> ans(digits.size() + 1);
-    ans[0] = 1;
+     ans[0] = 1;
     
     return ans;
      }
