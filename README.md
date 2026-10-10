@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ayu04ayush/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ayu04ayush/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ayu04ayush/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ayu04ayush/leetcode/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ayu04ayush/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ayu04ayush/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ayu04ayush/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ayu04ayush/leetcode/tree/master/0342-power-of-four) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayu04ayush/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -117,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/ayu04ayush/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ayu04ayush/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ayu04ayush/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
