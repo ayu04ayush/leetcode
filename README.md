@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ayu04ayush/leetcode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/ayu04ayush/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ayu04ayush/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ayu04ayush/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ayu04ayush/leetcode/tree/master/0263-ugly-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ayu04ayush/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ayu04ayush/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayu04ayush/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/ayu04ayush/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ayu04ayush/leetcode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/ayu04ayush/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayu04ayush/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ayu04ayush/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ayu04ayush/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ayu04ayush/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayu04ayush/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ayu04ayush/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ayu04ayush/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ayu04ayush/leetcode/tree/master/0342-power-of-four) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ayu04ayush/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
