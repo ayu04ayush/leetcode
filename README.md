@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ayu04ayush/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ayu04ayush/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ayu04ayush/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ayu04ayush/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/ayu04ayush/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/ayu04ayush/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayu04ayush/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ayu04ayush/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ayu04ayush/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ayu04ayush/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ayu04ayush/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/ayu04ayush/leetcode/tree/master/0342-power-of-four) |
 ## String
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayu04ayush/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ayu04ayush/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ayu04ayush/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ayu04ayush/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ayu04ayush/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/ayu04ayush/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/ayu04ayush/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayu04ayush/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/ayu04ayush/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ayu04ayush/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ayu04ayush/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/ayu04ayush/leetcode/tree/master/0367-valid-perfect-square) |
 ## Tree
 |  |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ayu04ayush/leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/ayu04ayush/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -164,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/ayu04ayush/leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ayu04ayush/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
