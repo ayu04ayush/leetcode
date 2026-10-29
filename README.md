@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ayu04ayush/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ayu04ayush/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ayu04ayush/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0724-find-pivot-index](https://github.com/ayu04ayush/leetcode/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/ayu04ayush/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayu04ayush/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayu04ayush/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ayu04ayush/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ayu04ayush/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/ayu04ayush/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/ayu04ayush/leetcode/tree/master/0724-find-pivot-index) |
 ## Design
 |  |
 | ------- |
